@@ -2,6 +2,10 @@
 
 A nlp project developed in Python as part of a data science portfolio.
 
+## Why I built this project
+
+I built this project to explore how NLP models can identify harmful or misleading text and support safer information environments.
+
 ## Overview
 
 This repository demonstrates an end-to-end data science workflow, including exploration, preprocessing, modeling, and evaluation where applicable.
